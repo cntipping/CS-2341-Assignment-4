@@ -3,5 +3,5 @@ Cecilia Tipping (49507335)
 
 
 # Output Screenshots
-<img width="1440" alt="Screenshot 2024-12-06 at 4 17 51 PM" src="https://github.com/user-attachments/assets/116d3eb4-339b-43ae-9c8f-af2f13fa6ab1">
-<img width="1440" alt="Screenshot 2024-12-06 at 4 17 53 PM" src="https://github.com/user-attachments/assets/a88c436f-ddf9-4892-85b8-eefac9c30eac">
+<img width="1440" alt="Screenshot 2024-12-06 at 5 22 59 PM" src="https://github.com/user-attachments/assets/2defd6d4-a256-452f-944f-b93bd0ecfa2f">
+<img width="1440" alt="Screenshot 2024-12-06 at 5 23 01 PM" src="https://github.com/user-attachments/assets/d6ac9d98-dc8b-49bc-8c62-3bc98d0d6650">
